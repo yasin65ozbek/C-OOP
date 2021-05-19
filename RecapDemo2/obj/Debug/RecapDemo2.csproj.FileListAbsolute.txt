@@ -1,0 +1,7 @@
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\bin\Debug\RecapDemo2.exe
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\bin\Debug\RecapDemo2.pdb
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\obj\Debug\RecapDemo2.csprojAssemblyReference.cache
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\obj\Debug\RecapDemo2.exe
+E:\Üni Bİlgisayar Ders\C# OOP\RecapDemo2\obj\Debug\RecapDemo2.pdb
