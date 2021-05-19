@@ -1,0 +1,7 @@
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\bin\Debug\Inheritance.exe
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\bin\Debug\Inheritance.pdb
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\obj\Debug\Inheritance.exe
+E:\Üni Bİlgisayar Ders\C# OOP\Inheritance\obj\Debug\Inheritance.pdb

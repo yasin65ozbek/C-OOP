@@ -1,0 +1,6 @@
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\bin\Debug\ApstractClasses.exe.config
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\bin\Debug\ApstractClasses.exe
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\bin\Debug\ApstractClasses.pdb
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\obj\Debug\ApstractClasses.csproj.CoreCompileInputs.cache
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\obj\Debug\ApstractClasses.exe
+E:\Üni Bİlgisayar Ders\C# OOP\ApstractClasses\obj\Debug\ApstractClasses.pdb
